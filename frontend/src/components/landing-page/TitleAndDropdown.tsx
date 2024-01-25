@@ -75,7 +75,7 @@ export const TitleAndDropdown = () => {
       <div className="absolute right-4 top-4">
         <a href="https://www.llamaindex.ai/" target="_blank">
           <button className="flex items-center justify-center font-nunito text-lg font-bold ">
-            Built by LlamaIndex
+            Built by LlamaIndex KH
             <img src="logo-black.svg" className="mx-2 rounded-lg" width={40} />
           </button>
         </a>
